@@ -1,6 +1,6 @@
 {
   "products": [
-   {"name":"id labore ex et quam laborum","available":true,"description":"Eliseo@gardner.biz"}
+   {"id":102,"name":"id labore ex et quam laborum","available":true,"description":"Eliseo@gardner.biz"}
   ],
   "profile": {
     "name": "typicode"
