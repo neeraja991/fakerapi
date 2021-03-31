@@ -1,9 +1,6 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+   {"name":"id labore ex et quam laborum","available":true,"description":"Eliseo@gardner.biz"}
   ],
   "profile": {
     "name": "typicode"
